@@ -1,0 +1,12 @@
+.global-shadow-card{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.global-hide-scroll{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.global-hide-scroll::-webkit-scrollbar {
+    display: none;
+}
